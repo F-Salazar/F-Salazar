@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Francisco Salazar 👋</h1>
+<h1 align="center">¡Hola! Soy Fran Salazar 👋</h1>
 
 <p align="center">
   Estudiante de Ingeniería de Sistemas, enfocado en <b>desarrollo web</b>, con apertura a soporte técnico y bases de datos.
