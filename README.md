@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC08D,100:0175C2&height=200&section=header&text=Francisco%20Salazar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%7C%20Mobile%20%7C%20Hardware%20%E2%80%94%20lo%20que%20se%20presente&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC08D,100:0175C2&height=200&section=header&text=Fran%20Salazar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%7C%20Mobile%20%7C%20Hardware%20%E2%80%94%20lo%20que%20se%20presente&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4FC08D&center=true&vCenter=true&width=600&lines=Construyendo+en+la+web...;Armando+apps+m%C3%B3viles+con+Flutter;Tambi%C3%A9n+destornillador+en+mano+%F0%9F%94%A7;De+c%C3%B3digo+a+hardware%2C+sin+drama" alt="Typing SVG" />
 
@@ -13,7 +13,7 @@
 
 ---
 
-### 👨‍💻 Fran Salazar
+### 👨‍💻 Sobre Mi
 
 - 🎓 Estudiante de **Ingeniería de Sistemas**, con foco en **desarrollo web** y explorando **desarrollo móvil**.
 - 🌐 Me manejo cómodo en el ciclo completo: **frontend, backend y bases de datos**.
